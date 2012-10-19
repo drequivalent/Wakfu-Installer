@@ -1,0 +1,25 @@
+The chainstaller for Wakfu MMORPG
+===============================================================
+This script will prepare your GNU/Linux operating system for 
+running an MMORPG called Wakfu, then it will download the
+actual and official Wakfu instller from Ankama and run it.
+Made for no-hassle Wakfu installation. Just make it executable,
+double-klick it, enter the SUDO password and it will take care 
+of the rest.
+Plain and simple.
+Tested on Ubuntu 12.xx and Debian Sid
+
+Установщик MMORPG Wakfu
+===============================================================
+Этот скрипт подготовит вашу систему GNU/Linux для игры Wakfu,
+скачает настоящий официальный Анкамовский мнсталлер, и запустит
+его.
+Сделано для простои и приятной установки игры. Просто дайте ему
+права на выполнение, введите SUDO-пароль, и скрипт обо всем
+позаботится сам.
+Протестировано на Ubuntu 12.xx и Debian Sid
+
+Disclaimer
+===============================================================
+Wakfu is a product and trademark of Ankama Studios, I own
+nothing of it.
